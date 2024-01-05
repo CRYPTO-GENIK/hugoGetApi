@@ -1,7 +1,8 @@
 repo_name: CRYPTO-GENIK/hugoGetApi
 report_id: 17695fada562ba2e2c1135dcb3e8e179
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T23:46:32+00:00'
+timestamp: '2024-01-05T08:51:59+00:00'
 requested_by: regisphilibert
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/CRYPTO-GENIK/hugoGetApi
   detection_source: Repo Metadata
 - name: Netlify
   description: Build, deploy and host your static site or app with a drag and drop
@@ -25,6 +27,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/CRYPTO-GENIK/hugoGetApi/blob/master/netlify.toml
   detection_source: netlify.toml
   last_updated_by: Regis Philibert
   last_updated_on: 2018-05-24 18:32:26.000000000 Z
